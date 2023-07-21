@@ -66,7 +66,7 @@ const MainPage = () => {
   console.log(trains)
 
   return (
-    <div className="flex flex-col justify-center items-center">
+    <div className="">
       <h1 className="text-3xl font-bold mb-4">
         Train Central by Soham Dutta 2005482
       </h1>
